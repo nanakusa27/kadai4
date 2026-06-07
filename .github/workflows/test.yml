@@ -1,5 +1,6 @@
 name: gcd_test
 on: [push]
+
 jobs:
  io_test:
  name: Use Linux commands
