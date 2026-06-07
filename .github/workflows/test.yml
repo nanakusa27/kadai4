@@ -11,4 +11,4 @@ jobs:
      - name: Permission Setting
        run: chmod +x gcd.sh test-gcd.sh
      - name: Test Run
-       run: ./test_gcd.sh
+       run: ./test-gcd.sh
